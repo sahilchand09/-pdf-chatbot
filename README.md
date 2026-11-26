@@ -15,7 +15,7 @@ Apne PDF se baat karo! PDF upload karo aur usse koi bhi sawal pucho.
 ## Tech Used
 - Python
 - Streamlit
-- Google Gemini AI
+- Groq AI
 - PyPDF2
 
 ## Kaise Chalaye?
